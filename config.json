@@ -1,0 +1,7 @@
+{
+    "default_openai_api_key": "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",
+    "data_host": "195.26.253.58",
+    "chroma_collection_name": "QBank",
+    "mongodb_host": "195.26.253.58:28017/",
+    "db_name": "QB_db"
+}

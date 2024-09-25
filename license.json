@@ -1,0 +1,5 @@
+{
+  "MongoDB_url": "mongodb://195.26.253.58:27017/",
+  "DataBase": "Alrazi_db",
+  "Firebase_URL": "https://adminbot-50a95-default-rtdb.firebaseio.com/"
+}
