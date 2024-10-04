@@ -59,7 +59,7 @@ class MongoDBManager:
 
 def main():
 
-    db_manager = MongoDBManager("mongodb://:28017/", "Alrazi_db")
+    db_manager = MongoDBManager("mongodb://localhost:28017/", "Alrazi_db")
 
 
 
