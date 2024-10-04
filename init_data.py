@@ -16,7 +16,7 @@ class MongoDBManager:
 
 def main():
     # Connect to MongoDB and select the Alrazi_db database
-    db_manager = MongoDBManager("mongodb://:28017/", "QB_db")
+    db_manager = MongoDBManager("mongodb://localhost:28017/", "QB_db")
 
 
     # Document for the settings_QasmiBank collection
